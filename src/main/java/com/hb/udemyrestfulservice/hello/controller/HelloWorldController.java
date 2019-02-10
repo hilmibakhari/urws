@@ -1,4 +1,4 @@
-package com.hb.udemyrestfulservice.controller;
+package com.hb.udemyrestfulservice.hello.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
